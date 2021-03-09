@@ -1,1 +1,1 @@
-[Demo](https://github.com/ssoulsless.github.io/mealReceiptsReactSPA).
+[Demo](https://ssoulsless.github.io/mealReceiptsReactSPA/.
