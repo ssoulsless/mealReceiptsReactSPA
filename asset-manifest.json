@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ssoulsless.github.io/mealReceiptsReactSPA/static/css/main.eee05e3d.chunk.css",
-    "main.js": "/ssoulsless.github.io/mealReceiptsReactSPA/static/js/main.584a1481.chunk.js",
-    "main.js.map": "/ssoulsless.github.io/mealReceiptsReactSPA/static/js/main.584a1481.chunk.js.map",
-    "runtime-main.js": "/ssoulsless.github.io/mealReceiptsReactSPA/static/js/runtime-main.de21b97a.js",
-    "runtime-main.js.map": "/ssoulsless.github.io/mealReceiptsReactSPA/static/js/runtime-main.de21b97a.js.map",
-    "static/css/2.2295ac45.chunk.css": "/ssoulsless.github.io/mealReceiptsReactSPA/static/css/2.2295ac45.chunk.css",
-    "static/js/2.53accd3e.chunk.js": "/ssoulsless.github.io/mealReceiptsReactSPA/static/js/2.53accd3e.chunk.js",
-    "static/js/2.53accd3e.chunk.js.map": "/ssoulsless.github.io/mealReceiptsReactSPA/static/js/2.53accd3e.chunk.js.map",
-    "index.html": "/ssoulsless.github.io/mealReceiptsReactSPA/index.html",
-    "static/css/2.2295ac45.chunk.css.map": "/ssoulsless.github.io/mealReceiptsReactSPA/static/css/2.2295ac45.chunk.css.map",
-    "static/css/main.eee05e3d.chunk.css.map": "/ssoulsless.github.io/mealReceiptsReactSPA/static/css/main.eee05e3d.chunk.css.map",
-    "static/js/2.53accd3e.chunk.js.LICENSE.txt": "/ssoulsless.github.io/mealReceiptsReactSPA/static/js/2.53accd3e.chunk.js.LICENSE.txt"
+    "main.css": "/mealReceiptsReactSPA/static/css/main.eee05e3d.chunk.css",
+    "main.js": "/mealReceiptsReactSPA/static/js/main.584a1481.chunk.js",
+    "main.js.map": "/mealReceiptsReactSPA/static/js/main.584a1481.chunk.js.map",
+    "runtime-main.js": "/mealReceiptsReactSPA/static/js/runtime-main.7159a2e6.js",
+    "runtime-main.js.map": "/mealReceiptsReactSPA/static/js/runtime-main.7159a2e6.js.map",
+    "static/css/2.2295ac45.chunk.css": "/mealReceiptsReactSPA/static/css/2.2295ac45.chunk.css",
+    "static/js/2.53accd3e.chunk.js": "/mealReceiptsReactSPA/static/js/2.53accd3e.chunk.js",
+    "static/js/2.53accd3e.chunk.js.map": "/mealReceiptsReactSPA/static/js/2.53accd3e.chunk.js.map",
+    "index.html": "/mealReceiptsReactSPA/index.html",
+    "static/css/2.2295ac45.chunk.css.map": "/mealReceiptsReactSPA/static/css/2.2295ac45.chunk.css.map",
+    "static/css/main.eee05e3d.chunk.css.map": "/mealReceiptsReactSPA/static/css/main.eee05e3d.chunk.css.map",
+    "static/js/2.53accd3e.chunk.js.LICENSE.txt": "/mealReceiptsReactSPA/static/js/2.53accd3e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de21b97a.js",
+    "static/js/runtime-main.7159a2e6.js",
     "static/css/2.2295ac45.chunk.css",
     "static/js/2.53accd3e.chunk.js",
     "static/css/main.eee05e3d.chunk.css",
